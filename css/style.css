@@ -1,0 +1,46 @@
+html, body {
+  margin: auto;
+  padding: 0;
+}
+
+#head, #subhead {
+  width: 100%;
+  text-align: center;
+  height: 70px;
+  background-color: #72C6E7;
+  font-family: Oswald;
+  color: white;
+  font-size: 3em;
+  padding-top: 9px;
+  display: block;
+}
+
+#head {
+  padding-bottom: 120px;
+}
+
+#subhead {
+  font-size: 0.4em;
+  font-family: Open Sans;
+  box-shadow: 0 8px 6px -6px grey;
+}
+
+#container {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  height: 90vh;
+  background-color: #DAADDA;
+  padding-top: 40px;
+  font-family: Orbitron;
+  font-size: 3.6em;
+  color: white;
+}
+
+.inline {
+  display: inline;
+}
+
+.row {
+  width: 100%;
+}
